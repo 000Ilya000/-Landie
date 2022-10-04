@@ -1,0 +1,531 @@
+a {
+    text-decoration: none;
+    color: #505F98;
+    transition: 0.5s linear;
+}
+
+.text-nav {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    margin-top: 18px;
+}
+
+.logo {
+    font-weight: 900;
+    font-size: 26px;
+    line-height: 38px;
+    color: #37447E;
+    padding-left: 65px; 
+    margin-top: 12px;
+}
+
+.btn {
+    background: #111B47;
+    color: #fff;
+    font-weight: 500;
+    font-size: 12px;
+    display: inline;
+    border-radius: 2px;
+    text-align: center;
+    transition: all 0.5s ease;
+    width: 166px;
+    height: 26px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin-top: 16px;
+}
+
+.btn:hover {
+    background: #182560;
+    color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-style: normal;
+    font-weight: 700;
+    color: #091133;
+    margin: 0;
+    padding: 0;
+}
+
+.offer-cont {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 55px;
+    line-height: 66px;
+    letter-spacing: 1px;
+    margin-top: 261px;
+}
+
+.offer-cont__text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #505F98;
+}
+
+.offer-cont__text__first {
+    margin-top: 20px;
+}
+
+.offer-cont__text__second {
+    margin-top: 30px;
+}
+
+.offer__btn__first {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 189px;
+    height: 36px;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.offer__btn__second {
+    margin-left: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 189px;
+    height: 36px;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.offer__btns {
+    margin-top: 55px;
+}
+
+
+.hero {
+    background: url('../img/introduce_product_picture.png') no-repeat right top;
+    background-size: 80% 100%;
+    width: 47%;
+    height: 80vh;
+    position: absolute;
+    right: 0;
+    top: 285px;
+}
+
+/* прижал картинку к правому краю и сделал bg ко всему хедеру */
+
+.header {
+    background: url('/img/bg_hero.png') no-repeat right top;
+    background-size: 72% 100%;
+    width: 100%;
+    height: 1000px;
+}
+
+.basic_section_cont__text__first {
+    margin-top: 16px;
+}
+
+.basic_section_cont {
+    height: 48px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 48px;
+    color: #091133;
+    margin-top: 166px;
+}
+
+.basic_section_cont__text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #6F7CB2;
+}
+
+.first_icon {
+    width: 40px;
+    margin-top: 80px;
+}
+
+.basic_micro-title {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    color: #091133;
+    margin-top: 14px;
+}
+
+.basic_micro-title_text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 18px;
+    color: #5D6970;
+    margin-top: 6px;
+}
+
+.basic_micro-title_two {
+    margin-left: 6px;
+}
+
+.basic_micro-title_text_two {
+    margin-left: 6px;
+}
+
+.basic_img {
+    background: url('../img/basic_img.svg') no-repeat;
+    background-size: 80% 100%;
+    width: 46%;
+    height: 80vh;
+    position: absolute;
+    right: 0;
+    top: 1070px;
+    float: right;
+}
+
+.img_section_one {
+    margin-top: 240px;
+    height: 315px;
+    margin-left: 40px;
+}
+
+.section_one {
+    padding-left: 40px;
+    margin-top: 115px;
+}
+
+.img_section_two {
+    height: 387px;
+}
+
+.img_section_three {
+    height: 312px;
+    margin-bottom: 110px;
+}
+
+.section_two {
+    padding-left: 40px;
+    padding-top: 40px;
+}
+
+.section_three {
+    padding-left: 40px;
+    margin-top: 75px;
+}
+
+.section__btn {
+    margin-left: 0;
+    width: 165px;
+    height: 36px;
+    text-align: center;
+    padding-top: 4px;
+    padding-bottom: 5px;
+}
+
+.price_title {
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 48px;
+    color: #091133;
+    margin-top: 415px;
+}
+
+.bg-forprice {
+    background: url('../img/Rectangle-price-footer.png') no-repeat;
+    background-size: 100% 200%;
+    padding-bottom: 177px;
+}
+
+.price_text {
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #6F7CB2;
+    margin-top: 16px;
+}
+
+.price {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 66px;
+    text-align: center;
+    letter-spacing: 1px;
+    color: #222F65;
+    margin-top: 36px;
+}
+
+.dis_price {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #37447E;
+}
+
+.dis_simple-price {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    color: #5D6970;
+    margin-top: 60px;
+}
+
+
+.price_btn {
+    width: 209px;
+    height: 35px;
+    margin: 0 auto;
+    display: block;
+    margin-top: 9px;
+    padding-top: 4px;
+    padding-bottom: 8px;
+}
+
+.footer {
+    height: 216px;
+    background: url('../img/Rectangle-footer.png') no-repeat;
+    background-size: 100% 100%;
+}
+
+.footer-text {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    color: #939EA4;
+}
+
+.first_str_text {
+    margin-top: 68px;
+}
+
+.first_str_btn {
+    margin-top: 62px;
+}
+
+.footer_btn {
+    margin-top: 0;
+    width: 120px;
+    float: right;
+}
+
+.footer-logo {
+    margin-top: 56px;
+}
+
+.line {
+    height: 1px;
+    width: 100%;
+}
+
+.second_str_text {
+    margin-top: 22px;
+}
+
+.socials {
+    text-align: end;
+}
+
+.social {
+    margin-left: 27px;
+}
+
+/* с помощью grid системы(bootstrap) и media-запросов создавалась адаптация элементов под разные экраны */
+
+@media screen and (max-width: 1200px) {
+    .basic_section_cont__text {
+        margin-top: 50px;
+    }
+    .social {
+        margin-left: 20px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .offer__btn__second {
+        margin-left: 0;
+    }
+
+    .img_section_one {
+        width: 100%;
+        margin-left: 0;
+        margin-top: 350px;
+    }
+
+    .basic_section_cont__text  {
+        margin-top: 65px;
+    }
+
+    .basic_section_cont__text__second {
+        margin-top: 30px;
+    }
+
+    .price_btn {
+        margin: auto;
+    }
+
+    .social {
+        margin-left: 9px;
+    }
+}
+
+@media screen and (max-width: 839px) {
+    .nawbtn {
+        width: 100%;
+    }
+
+    .hero {
+        height: 70%;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .nawbtn {
+        width: 125px;
+    }
+
+    .nawlogo {
+        padding-left: 12px;
+    }
+
+    .mediaOffer-cont {
+        width: 70%;
+        height: 70%;
+    }
+
+    .offer-cont {
+        margin-top: 70px;
+    }
+
+    .first_basic_section_cont {
+        padding-top:150px;
+    }
+
+    .basic_section_cont__text {
+        width: 50%;
+    }
+
+    .basic_img {
+        margin-top: 50px;
+    }
+
+    .first_icon {
+        float: right;
+    }
+
+    .img_section_one {
+        margin-top: 100px;
+    }
+
+    .basic_section_cont {
+        margin-top: 100px;
+    }
+
+    .own_micro {
+        float: right;
+    }
+    
+    /* т.к в верстке эти элементы были поочередно проставлены в строку(row), пришлось напрямую позиционировать их с помощью transform   */
+    .basic_micro-title_one {
+        transform: translate(0,-200px);
+    }
+
+    .basic_micro-title_text_one {
+        transform: translate(0,-240px);
+        
+    }
+
+    .basic_micro-title_two {
+        transform: translate(0,-120px);
+        margin-left: 0;
+    }
+
+    .basic_micro-title_text_two {
+        transform: translate(0,-200px);
+        margin-left: 0;
+    }
+    /* т.к в верстке эти элементы были поочередно проставлены в строку(row), пришлось напрямую позиционировать их с помощью transform   */
+
+    .offer-cont {
+        font-style: normal;
+        font-weight: 500;   
+        font-size: 23px;
+        line-height: 40px;
+        letter-spacing: 1px;
+        margin-top: 100px;
+    }
+
+    .hero {
+        height: 47%;
+        width: 47%;
+    }
+
+
+    .footer {
+        height: 100%;
+    }
+
+    .footer-text {
+        text-align: center;
+    }
+
+    .footer-logo {
+        text-align: center;
+        padding-left: 0;
+        padding-left: 2%;
+    }
+
+    .first_str_btn {
+        text-align: center;
+    }
+
+    .footer_btn {
+        float: none;
+    }
+
+    .socials {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 415px) {
+    .hero {
+        width: 35%;
+        height: 35%;
+    }
+
+    .section_one {
+        margin-top: 10px;
+    }
+
+    .section_two {
+        margin-top: 10px;
+    }
+
+    .section_three {
+        margin-top: 10px;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .basic_section_cont__text__first {
+        padding-top: 70px;
+    }
+
+    .basic_img {
+        margin-top: 50%;
+    }
+}
+
+@media screen and (max-width: 285px) {
+    .first_basic_section_cont {
+        padding-top: 280px;
+    }
+}
